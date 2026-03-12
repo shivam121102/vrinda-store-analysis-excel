@@ -58,7 +58,7 @@ These insights help the business improve marketing strategies and target the rig
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot%202026-03-12%202224000.png)
+![Dashboard](Screenshot%202026-03-12%20224000.png)
 
 ## Purpose
 
